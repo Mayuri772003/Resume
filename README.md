@@ -1,1 +1,121 @@
-# Resume
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayuri Jadhav</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 15px;
+            line-height: 1.2;
+            color: #333;
+            background-color: #eef3f3;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.0em;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #555;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        section {
+            margin-bottom: 30px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-info {
+            list-style-type: none;
+            padding: 0;
+            margin: 10px 0;
+            text-align: center;
+        }
+        .contact-info li {
+            margin: 5px 0;
+        }
+        .education, .projects, .skills, .certifications {
+            margin-bottom: 20px;
+        }
+        .education-item, .project-item {
+            margin-bottom: 10px;
+        }
+        .education-item p, .project-item p {
+            margin: 5px 0;
+        }
+        .skills ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Mayuri Jadhav</h1>
+        <ul class="contact-info">
+            <li>Email: mayurijadhav164@gmail.com</li>
+            <li>Phone: 8390164176</li>
+        </ul>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>To Obtain a creative and challenging position in an organization that give me an opportunity for self improvement and leadership</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <div class="education-item">
+            <h3>Bachelor of Computer Science [Your Major]</h3>
+            <p>Pune University</p>
+            <p>Graduation: 2024-2025</p>
+            
+        </div>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <div class="project-item">
+            <h3>Electronics</h3>
+            <p>Automatic tempreture fan speed control.</p>
+            <ul>
+            </ul>
+        </div>
+        
+    </section>
+
+    <section class="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>C Programing</li>
+            <li>Database SQL</li>
+            <li>Data Struture</li>
+            <li>Ms-office</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>C Programing 1</li>
+            <li>Power Bi</li>
+        </ul>
+    </section>
+
+    <section class="extra-curricular">
+        <h2>Extra-Curricular Activities</h2>
+        <p>Typing Certifications</p>
+    </section>
+
+</body>
+</html>
